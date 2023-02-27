@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T11:31:57.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="X319511zHEENCS_IqLJW" version="20.8.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-27T17:27:35.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="D0gU6DQma4_6MeiMQH4B" version="20.8.13" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Visitor and Agent User Flow">
     <mxGraphModel dx="3033" dy="1083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -422,7 +422,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oPOXSU44NxveSShp0875" name="Database">
-    <mxGraphModel dx="1687" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -501,6 +501,18 @@
         </mxCell>
         <mxCell id="aCvSE8PnEoK45GYvlGhv-3" value="Can See Its Agent" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="260" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FyB-vINtT2XWBzgjlgKi-1" value="" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fontSize=20;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="670" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FyB-vINtT2XWBzgjlgKi-2" value="" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="90" y="730" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FyB-vINtT2XWBzgjlgKi-3" value="Composition" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="190" y="675" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FyB-vINtT2XWBzgjlgKi-4" value="Aggregation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="190" y="735" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
